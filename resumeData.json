@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name":"Chris Wang",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is Chris, a meteorological and environmental engineer.I graduated from Nanjing University of information science and technology with Bachelor degree in 2011 and graduated from JiangSu University with a Master degree in 2019. Since then, I hava been living in a beautiful city called Nanjing which is in the yangtze River Delta region. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "wc79847519084@gmail.com",
+    "phone": "(+86) 18052826113",
+    "github":"https://github.com/CyberlarkCode",
+    "project":"https://github.com/CyberlarkCode",
+    "address":{
+      "line1":"Address: Park community , Jurong City",
+      "line2":"City: Nanjing",
+      "line3":"Country: China"
+    },
+    "youtube":{
+      "english": {
+        "name": "BasketballPlayer",
+        "url": "https://www.youtube.com/"
+      },
+      "chinese": {
+        "name": "程序员克里斯",
+        "url":"https://www.youtube.com/"
+      }
+    },
+    "website": "http://",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/wc79847519084",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      }
+    
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"JiangSu University",
+        "degree":"Master of Environmental Engineering",
+        "graduated":"2015 - 2019",
+        "description":""
+      },
+      {
+        "school":"Nanjing University of Information Science and Technology",
+        "degree":"Bachelor of Meteorology Science",
+        "graduated":"2007 - 2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"JiangXi Province Bureau of Civil Aviation Administration",
+        "title":"Meteorological engineer",
+        "years":"Augest 2011 - Augest 2014",
+        "description":"Analyse meteorological data and provide fundamental meteorological data for civil aviation aircraft"
+      },
+      {
+        "company":"Huaian Civil Aviation Airport",
+        "title":"Meteorological engineer",
+        "years":"Augest 2014 - Augest 2016",
+        "description":"Analyse meteorological data and provide fundamental meteorological data for civil aviation aircraft"
+      },
+      {
+        "company":"ZhenJiang Ecology and Environment Bureau",
+        "title":"Environmental engineer",
+        "years":"Augest 2016 - present",
+        "description":"Analyse meteorological and environmental data and provide regional environmental forecast "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java Se (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  }
+  
+ 
+  
+}
